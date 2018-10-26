@@ -7,5 +7,4 @@ Takes export of scripts from the Burp Suite "Find scripts" engagement tool in Bu
 ```
 python js-extractor.py <file>
 ```
-Where <file> is the file exported from Burp
 
